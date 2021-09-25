@@ -3,18 +3,21 @@
 .title {
   font-family: 'Taviraj', serif;
   font-size: 45px;
+  height: 50px;
 }
 
 .subtitle {
   font-family: 'Taviraj', serif;
   font-size: 16px;
   font-style: italic;
+  height: 50px;
 }
+
+/*Lyrics*/
 
 p {
    
   width:90%; 
-  
   max-width:250px;
   margin-top: 25px;
   text-align: left;

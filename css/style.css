@@ -16,9 +16,16 @@
 /*Lyrics*/
 
 p {
-   
+  font-family: 'Taviraj';
   width:90%; 
   max-width:250px;
   margin-top: 25px;
   text-align: left;
+  
+}
+
+/*Body*/
+
+body {
+  padding-bottom: 50px;
 }

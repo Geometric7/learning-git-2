@@ -96,7 +96,7 @@ dist
 .vuepress/dist
 
 #node_modules
-.node_modules/ 
+**/node_modules
 
 # Serverless directories
 .serverless/
